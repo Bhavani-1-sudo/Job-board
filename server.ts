@@ -23,7 +23,7 @@ async function startServer() {
         return;
       }
 
-      const targetRepo = repoUrl || 'https://github.com/varshini-9848-hash/Job-board.git';
+      const targetRepo = repoUrl || 'https://github.com/Bhavani-1-sudo/Job-board.git';
       // Format authenticated URL
       const cleanRepo = targetRepo.replace(/^https:\/\//, '');
       const authUrl = `https://${token}@${cleanRepo}`;

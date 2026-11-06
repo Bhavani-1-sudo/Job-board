@@ -2,7 +2,7 @@
 
 A modern, high-polish Tech Job Board and Career Application Pipeline tracker built with **React 19**, **TypeScript**, **Tailwind CSS**, and **Express**.
 
-Ported from [mallapragadavarshini-design/job-board](https://github.com/mallapragadavarshini-design/job-board) with 100% feature fidelity, reactive local storage persistence, responsive Material 3 design tokens, and git synchronization targeting [varshini-9848-hash/Job-board](https://github.com/varshini-9848-hash/Job-board.git).
+Ported from [mallapragadavarshini-design/job-board](https://github.com/mallapragadavarshini-design/job-board) with 100% feature fidelity, reactive local storage persistence, responsive Material 3 design tokens, and git synchronization targeting [varshini-9848-hash/Job-board](https://github.com/Bhavani-1-sudo/Job-board.git).
 
 ---
 
@@ -57,7 +57,7 @@ Ported from [mallapragadavarshini-design/job-board](https://github.com/mallaprag
 ## 🚀 Pushing to GitHub
 
 The local Git repository is already initialized with branch `main` and remote `origin` configured to:
-`https://github.com/varshini-9848-hash/Job-board.git`
+`https://github.com/Bhavani-1-sudo/Job-board.git`
 
 ### Option 1: In-App 1-Click Push
 1. Click the **"Push to GitHub"** button in the top navigation bar.
@@ -70,7 +70,7 @@ Run the following in your terminal:
 git add -A
 git commit -m "feat: complete JobHub job board and application tracker"
 git branch -M main
-git remote set-url origin https://github.com/varshini-9848-hash/Job-board.git
+git remote set-url origin https://github.com/Bhavani-1-sudo/Job-board.git
 git push -u origin main
 ```
 

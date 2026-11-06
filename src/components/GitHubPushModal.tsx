@@ -28,7 +28,7 @@ export const GitHubPushModal: React.FC = () => {
 
   if (!isGitHubModalOpen) return null;
 
-  const targetRepo = 'https://github.com/varshini-9848-hash/Job-board.git';
+  const targetRepo = 'https://github.com/Bhavani-1-sudo/Job-board.git';
 
   const terminalCommands = `# 1. Ensure git is configured
 git config user.name "Your Name"
@@ -40,7 +40,7 @@ git commit -m "feat: complete JobHub job board application and pipeline"
 
 # 3. Ensure branch is main and remote is set
 git branch -M main
-git remote set-url origin https://github.com/varshini-9848-hash/Job-board.git
+git remote set-url origin https://github.com/Bhavani-1-sudo/Job-board.git
 
 # 4. Push code to GitHub (use Personal Access Token when prompted for password)
 git push -u origin main`;
@@ -135,7 +135,7 @@ git push -u origin main`;
             </span>
           </div>
           <a
-            href="https://github.com/varshini-9848-hash/Job-board"
+            href="https://github.com/Bhavani-1-sudo/Job-board"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-700/80 hover:bg-slate-700 text-white font-semibold flex-shrink-0 transition-colors"
