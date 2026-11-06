@@ -1,0 +1,6 @@
+{
+  "name": "JobHub - Tech Job Board & Career Tracker",
+  "description": "Comprehensive Job Board & Career Tracker: discover curated opportunities across Engineering, AI/ML, Mobile & Design, filter by salary and remote status, track applications, and manage bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
